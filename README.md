@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Rayhan 👋
 
-<!--
-**Rayhan-NMR/Rayhan-NMR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 High school student focused on Data Science and Informatics  
+💻 Currently learning Python, JavaScript, and data analysis  
+🚀 Building projects to solve real-world problems  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- Python (Basic)
+- JavaScript (Basic)
+- Data Analysis Fundamentals
+- Machine Learning Fundamentals
+
+---
+
+## 📂 Featured Projects
+- JavaScript Projects Portfolio  
+- Triangle Calculator Web App  
+- Farming Website  
+
+---
+
+## 🌱 Currently Learning
+- Data Science  
+- Machine Learning  
+- Web Development  
+
+---
+
+## 📫 Connect with me
+- LinkedIn: https://linkedin.com/in/rayhan-nazzaz
